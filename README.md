@@ -56,7 +56,7 @@ https://user:secret@shop.eu.example.co.uk:8443/products/shoes/running%20shoes/in
 `www.linkedin.com/in/dguy2003   &   https://github.com/DGUY1-wilm`
 
 
-![Example output](images/example.png)
+![Example output](example.png)
 
 
 
