@@ -50,6 +50,15 @@ path             /blog/hello-world
 https://user:secret@shop.eu.example.co.uk:8443/products/shoes/running%20shoes/index.html;session=abc?q=red+shoes&page=2&tag=sale&tag=new&lang=en#reviews
 ```
 
+
+### Real Example
+
+`www.linkedin.com/in/dguy2003   &   https://github.com/DGUY1-wilm`
+
+```
+
+```
+
 This one shows: embedded credentials, a multi-part suffix (`co.uk`), multiple subdomains, an explicit port, percent-encoding (`%20` = space), a file name, legacy path parameters, repeated query keys, and a fragment. Run `--complex` to see the full explanation.
 
 ## Use as a library
