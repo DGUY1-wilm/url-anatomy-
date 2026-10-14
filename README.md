@@ -73,6 +73,6 @@ pytest
 - Multi-part suffixes (like `co.uk`) are detected from a small built-in list. For full accuracy, use the [Public Suffix List](https://publicsuffix.org).
 - IPv6 hosts, internationalized domains, and non-web schemes (`mailto:`) get only basic handling.
 
-## License
+
 
 MIT
